@@ -41,3 +41,53 @@ This project is a sort of outburst that began when I discovered that the apps I 
 I strongly dislike when society forces me to use products or services that I don't want, especially because I care about my privacy. I also dislike that today almost every digital service collects my data. While this might be acceptable in the case of PCs, I don't think it's acceptable for smartphones, because they have so many sensors that can track all my activities in detail.  
 So, inspired by my previous project ([Not_made_by_AI](https://github.com/R0mb0/Not_made_by_AI)), I decided to create this one for those applications that are free from Google. >:(
 
+## Common Questions
+
+<div align="left">
+<details>
+  <summary> 
+   
+### Why did you use HTML to draw the badge?
+  
+  </summary>  
+
+I'm not skilled with drawing apps, and I had limited free time to create the badge. (╥﹏╥) So, I preferred to use a familiar tool instead of learning a new one.¯\_(ツ)_/¯
+  
+</details>
+</div>
+
+<div align="right">
+<details>
+  <summary> 
+
+### How did you convert an HTML file to SVG?
+  
+  </summary>  
+
+I used [EvoPDF](https://www.evopdf.com/demo/HTML_to_Image/HTML_to_SVG.aspx).
+  
+</details>
+</div>
+
+<div align="left">
+<details>
+  <summary> 
+
+### Why should I include this badge in my work?
+  
+  </summary>  
+
+Including this badge in your work could be a fun way to let users easily understand that your application does not use Google's services to function. <br><br>
+
+Glory to the programmers who develop apps free from Google ヽ(´ー｀)ノ
+  
+</details>
+</div>
+
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDark.svg">
+    <source media="(prefers-color-scheme: light)"srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
+    <img alt="Not made by AI" src="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
+  </picture>
+
