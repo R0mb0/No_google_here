@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "No_google_here"
+version: 1.0.0
+date-released: 2026-02-10
+url: "https://github.com/R0mb0/No_google_here"
