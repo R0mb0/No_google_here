@@ -28,11 +28,13 @@ Badges to indicate that the developed app does not require Google's services to 
 Simply copying and pasting the following code (∪ ◡ ∪)
 
 ```markdown
+<a href="https://github.com/R0mb0/No_google_here">
   <picture>
     <source media="(prefers-color-scheme: dark)"srcset="https://github.com/R0mb0/No_google_here/blob/main/Badge/SVG/NoGoogleHereDark.svg">
     <source media="(prefers-color-scheme: light)"srcset="https://github.com/R0mb0/No_google_here/blob/main/Badge/SVG/NoGoogleHereLight.svg">
     <img alt="Not made by AI" src="https://github.com/R0mb0/No_google_here/blob/main/Badge/SVG/NoGoogleHereDefault.svg">
   </picture>
+</a>
 ```
 
 ## Story of this repository
